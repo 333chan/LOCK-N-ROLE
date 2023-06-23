@@ -15,6 +15,7 @@
   ・Visual Studio Professional 2022 (64bit) - LTSC 17.0
 
 〇担当箇所
+
   ・企画：立案/シナリオ
   
   ・Player：立ち絵の描画、ステータス管理
